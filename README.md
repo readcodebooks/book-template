@@ -1,4 +1,4 @@
-# hello-codebook
+# Book template for CodeBook
 
 This is a template for a [CodeBook](https://codebook.page).
 
